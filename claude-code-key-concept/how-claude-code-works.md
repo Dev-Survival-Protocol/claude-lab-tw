@@ -1,4 +1,6 @@
 
+> https://code.claude.com/docs/ko/how-claude-code-works
+
 # 목표: 
 에이전트 루프, 내장 도구, Claude Code가 프로젝트와 상호작용하는 방식을 이해하고, 효과적으로 사용하기 위한 팁을 학습한다.
 
